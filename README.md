@@ -40,4 +40,7 @@
 - 😄 **Pronouns:**: He/him/his
 - ⚡ **Fun fact:**: If I encountered with bugs I will go crazy, sleepless nights and I will fix the bugs.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=codefa)
+![Github stats](https://github-readme-stats.vercel.app/api?username=codefa&show_icons=true&theme=tokyonight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codefa&layout=compact&theme=tokyonight)](https://github.com/codefa/github-readme-stats)
