@@ -26,7 +26,7 @@
 ### 🔨 Stuff I've built includes:
 * Numerous (progressive) web apps
 * Dozens of websites
-* Tech trainings and courses
+* Tech trainings and teaching, mentorship developers
 * Documentation, both internal and public
 * Vue Re-usable Components with Storybook
 * Mobile first web apps
