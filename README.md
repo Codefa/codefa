@@ -2,6 +2,13 @@
 
 **I'm a full-stack developer specializing in Vue, NuxtJS .**
 
+<!-- <p align="center"> 
+  <img src="https://profile-counter.glitch.me/codefa/count.svg" />
+</p> -->
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sharonshaju/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/sharon-the-encoder)
+
 ### 🖥️ My top tech skills:
 
 * **JavaScript**
