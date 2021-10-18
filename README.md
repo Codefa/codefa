@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sharon Shaju.
 
-**I'm a full-stack developer specializing in Vue, NuxtJS .**
+**I'm a full-stack developer specializing in VueJS, NuxtJS .**
 
 <!-- <p align="center"> 
   <img src="https://profile-counter.glitch.me/codefa/count.svg" />
@@ -12,8 +12,8 @@
 ### 🖥️ My top tech skills:
 
 * **JavaScript**
-  * Vue
-  * Nuxt
+  * VueJS
+  * NuxtJS
   * Nodejs
   * GraphQL
   * ES6+
