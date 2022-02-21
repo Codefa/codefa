@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sharon Shaju.
+## Hi there 👋 I'm Sharon.
 
 **I'm a full-stack developer specializing in VueJS, NuxtJS .**
 
