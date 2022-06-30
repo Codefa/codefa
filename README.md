@@ -18,6 +18,8 @@
   * GraphQL
   * ES6+
   * Storybook
+  * WebRTC
+  * Simple-peer
 * **CSS**
   * Responsive design ( with css frameworks )
   * Sass
