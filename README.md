@@ -20,6 +20,7 @@
   * Storybook
   * WebRTC
   * Simple-peer
+  * Hypercore
 * **CSS**
   * Responsive design ( with css frameworks )
   * Sass
