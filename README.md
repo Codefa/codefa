@@ -18,9 +18,8 @@
   * GraphQL
   * ES6+
   * Storybook
-  * WebRTC
-  * Simple-peer
-  * Hypercore
+  * WebRTC ( simple-peer & werift SFU )
+  * Hypercore ( DHT - decentralized nodes )
 * **CSS**
   * Responsive design ( with css frameworks )
   * Sass
