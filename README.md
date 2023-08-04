@@ -18,6 +18,7 @@
   * GraphQL
   * ES6+
   * Storybook
+  * ThreeJS
   * WebRTC ( simple-peer & werift SFU )
   * Hypercore ( DHT - decentralized nodes )
 * **CSS**
