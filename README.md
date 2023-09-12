@@ -18,9 +18,6 @@
   * GraphQL
   * ES6+
   * Storybook
-  * ThreeJS
-  * WebRTC ( simple-peer & werift SFU )
-  * Hypercore ( DHT - decentralized nodes )
 * **CSS**
   * Responsive design ( with css frameworks )
   * Sass
@@ -44,7 +41,7 @@
 ### 📖 Some other things about me:
     
 - 🔭 **I’m currently working on**: expanding my TypeScript skills
-- 🌱 **I’m currently learning**: more about TypeScript and Vue 3, Blockchain Technology & NFT
+- 🌱 **I’m currently learning**: more about TypeScript and Vue 3, Blockchain Technology, WebRTC & OpenAI
 - 💬 **Ask me about**: Vue, CSS, vue re-usable components, Vuetify, TailwindCSS, ElementUI, Buefy, responsive design…really, anything I might be able to answer. I love to help.
 - 📫 **How to reach me:**: the email address in [my profile](https://github.com/codefa).
 - 😄 **Pronouns:**: He/him/his
