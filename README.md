@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Sharon.
 
+![trophy](https://github-profile-trophy.vercel.app/?username=codefa&theme=onedark&column=-1)
+
 **I'm a full-stack developer specializing in VueJS, NuxtJS .**
 
 <!-- <p align="center"> 
@@ -51,3 +53,6 @@
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=codefa&layout=compact&theme=tokyonight)](https://github.com/codefa/github-readme-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=codefa&theme=tokyonight&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
