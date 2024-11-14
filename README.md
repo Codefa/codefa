@@ -16,6 +16,7 @@
 * **JavaScript**
   * VueJS
   * NuxtJS
+  * ReactJS
   * Nodejs
   * GraphQL
   * ES6+
@@ -55,4 +56,6 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=codefa&layout=compact&theme=tokyonight)](https://github.com/codefa/github-readme-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=codefa&theme=tokyonight&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img src="https://raw.githubusercontent.com/codefa/codefa/output/snake.svg" alt="Snake animation" />
+
+###
