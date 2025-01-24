@@ -15,10 +15,9 @@
 
 * **JavaScript**
   * VueJS
-  * NuxtJS
   * ReactJS
   * Nodejs
-  * GraphQL
+  * webRTC
   * ES6+
   * Storybook
 * **CSS**
