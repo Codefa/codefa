@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sharon.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=codefa&theme=onedark&column=-1)
+![trophy](https://github-trophies.vercel.app/?username=codefa&row=1&theme=radical&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 **I'm a full-stack developer specializing in VueJS, NuxtJS .**
 
