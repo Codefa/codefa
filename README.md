@@ -2,7 +2,8 @@
 
 ![trophy](https://github-trophies.vercel.app/?username=codefa&row=1&theme=radical&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
-**I'm a full-stack developer specializing in VueJS, NuxtJS .**
+**I'm a full-stack developer specializing in Reactjs & Vuejs.**
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!-- <p align="center"> 
   <img src="https://profile-counter.glitch.me/codefa/count.svg" />
