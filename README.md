@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sharon.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6553FF&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Sharon.)](https://git.io/typing-svg)
 
 ![trophy](https://github-trophies.vercel.app/?username=codefa&row=1&theme=radical&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
